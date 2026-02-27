@@ -1,4 +1,4 @@
-const numero = Number(prompt("Digite um numero inteiro"))
+const numero = Number(prompt("Digite um número inteiro:"))
 alert(numero*0)
 alert(numero*1)
 alert(numero*2)

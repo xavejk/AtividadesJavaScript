@@ -1,2 +1,2 @@
-const milha=Number (prompt("Digite uma distancia em milhas:"))
+const milha=Number (prompt("Digite uma distância em milhas:"))
 alert (milha*1.60934) 

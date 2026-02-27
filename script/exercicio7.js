@@ -1,4 +1,4 @@
-const km = Number(prompt("Digite uma distancia em quilometros"))
+const km = Number(prompt("Digite uma distância em quilômetros:"))
 const resultado1 = (km*1000)
 alert(resultado1)
 const resultado2 = (km*100000)
